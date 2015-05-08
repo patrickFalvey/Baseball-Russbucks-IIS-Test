@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<schedule>
+  <day dayNumber="day1">
+    <game gameNumber="game1">
+      <homeTeam>Washington</homeTeam>
+      <awayTeam>Miami</awayTeam>
+      <startTime>2:33 PM</startTime>
+      <startDate>5/8/2015</startDate>
+    </game>
+    <game gameNumber="game2">
+      <homeTeam>Toronto</homeTeam>
+      <awayTeam>NY Yankees</awayTeam>
+      <startTime>2:33 PM</startTime>
+      <startDate>5/8/2015</startDate>
+    </game>
+    <game gameNumber="game3">
+      <homeTeam>Boston</homeTeam>
+      <awayTeam>Tampa Bay</awayTeam>
+      <startTime>2:33 PM</startTime>
+      <startDate>5/8/2015</startDate>
+    </game>
+    <game gameNumber="game4">
+      <homeTeam>Atlanta</homeTeam>
+      <awayTeam>Philadelphia</awayTeam>
+      <startTime>2:33 PM</startTime>
+      <startDate>5/8/2015</startDate>
+    </game>
+    <game gameNumber="game5">
+      <homeTeam>Milwaukee</homeTeam>
+      <awayTeam>LA Dodgers</awayTeam>
+      <startTime>2:33 PM</startTime>
+      <startDate>5/8/2015</startDate>
+    </game>
+    <game gameNumber="game6">
+      <homeTeam>Minnesota</homeTeam>
+      <awayTeam>Oakland</awayTeam>
+      <startTime>2:33 PM</startTime>
+      <startDate>5/8/2015</startDate>
+    </game>
+    <game gameNumber="game7">
+      <homeTeam>Houston</homeTeam>
+      <awayTeam>Texas</awayTeam>
+      <startTime>2:33 PM</startTime>
+      <startDate>5/8/2015</startDate>
+    </game>
+    <game gameNumber="game8">
+      <homeTeam>St. Louis</homeTeam>
+      <awayTeam>Chicago Cubs</awayTeam>
+      <startTime>2:33 PM</startTime>
+      <startDate>5/8/2015</startDate>
+    </game>
+    <game gameNumber="game9">
+      <homeTeam>Colorado</homeTeam>
+      <awayTeam>Arizona</awayTeam>
+      <startTime>2:33 PM</startTime>
+      <startDate>5/8/2015</startDate>
+    </game>
+    <game gameNumber="game10">
+      <homeTeam>LA Angels</homeTeam>
+      <awayTeam>Seattle</awayTeam>
+      <startTime>2:33 PM</startTime>
+      <startDate>5/8/2015</startDate>
+    </game>
+    <game gameNumber="game11">
+      <homeTeam>San Francisco</homeTeam>
+      <awayTeam>San Diego</awayTeam>
+      <startTime>2:33 PM</startTime>
+      <startDate>5/8/2015</startDate>
+    </game>
+  </day>
+</schedule>

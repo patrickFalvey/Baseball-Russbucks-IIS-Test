@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TeamList>
+  <Team TeamId="team1">
+    <TeamName>Washington</TeamName>
+  </Team>
+  <Team TeamId="team2">
+    <TeamName>Miami</TeamName>
+  </Team>
+  <Team TeamId="team3">
+    <TeamName>Colorado</TeamName>
+  </Team>
+  <Team TeamId="team4">
+    <TeamName>Arizona</TeamName>
+  </Team>
+  <Team TeamId="team5">
+    <TeamName>San Francisco</TeamName>
+  </Team>
+  <Team TeamId="team6">
+    <TeamName>San Diego</TeamName>
+  </Team>
+  <Team TeamId="team7">
+    <TeamName>Pittsburg</TeamName>
+  </Team>
+  <Team TeamId="team8">
+    <TeamName>Cincinnati</TeamName>
+  </Team>
+  <Team TeamId="team9">
+    <TeamName>Toronto</TeamName>
+  </Team>
+  <Team TeamId="team10">
+    <TeamName>NY Yankees</TeamName>
+  </Team>
+  <Team TeamId="team11">
+    <TeamName>Boston</TeamName>
+  </Team>
+  <Team TeamId="team12">
+    <TeamName>Tampa Bay</TeamName>
+  </Team>
+  <Team TeamId="team13">
+    <TeamName>Atlanta</TeamName>
+  </Team>
+  <Team TeamId="team14">
+    <TeamName>Philadelphia</TeamName>
+  </Team>
+  <Team TeamId="team15">
+    <TeamName>Chicago White Sox</TeamName>
+  </Team>
+  <Team TeamId="team16">
+    <TeamName>Detroit</TeamName>
+  </Team>
+  <Team TeamId="team17">
+    <TeamName>Kansas City</TeamName>
+  </Team>
+  <Team TeamId="team18">
+    <TeamName>Cleveland</TeamName>
+  </Team>
+  <Team TeamId="team19">
+    <TeamName>Milwaukee</TeamName>
+  </Team>
+  <Team TeamId="team20">
+    <TeamName>LA Dodgers</TeamName>
+  </Team>
+  <Team TeamId="team21">
+    <TeamName>Minnesota</TeamName>
+  </Team>
+  <Team TeamId="team22">
+    <TeamName>Oakland</TeamName>
+  </Team>
+  <Team TeamId="team23">
+    <TeamName>Houston</TeamName>
+  </Team>
+  <Team TeamId="team24">
+    <TeamName>Texas</TeamName>
+  </Team>
+  <Team TeamId="team25">
+    <TeamName>St. Louis</TeamName>
+  </Team>
+  <Team TeamId="team26">
+    <TeamName>Chicago Cubs</TeamName>
+  </Team>
+  <Team TeamId="team27">
+    <TeamName>LA Dodgers</TeamName>
+  </Team>
+  <Team TeamId="team28">
+    <TeamName>LA Angels</TeamName>
+  </Team>
+  <Team TeamId="team29">
+    <TeamName>NY Mets</TeamName>
+  </Team>
+  <Team TeamId="team30">
+    <TeamName>Baltimore</TeamName>
+  </Team>
+</TeamList>

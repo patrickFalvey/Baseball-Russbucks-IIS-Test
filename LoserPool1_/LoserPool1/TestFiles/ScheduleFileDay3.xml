@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<schedule>
+  <day dayNumber="day3">
+    <game gameNumber="game1">
+      <homeTeam>Washington</homeTeam>
+      <awayTeam>Miami</awayTeam>
+      <startTime>2:39 PM</startTime>
+      <startDate>5/8/2015</startDate>
+    </game>
+    <game gameNumber="game2">
+      <homeTeam>Colorado</homeTeam>
+      <awayTeam>Arizona</awayTeam>
+      <startTime>2:39 PM</startTime>
+      <startDate>5/8/2015</startDate>
+    </game>
+    <game gameNumber="game3">
+      <homeTeam>San Francisco</homeTeam>
+      <awayTeam>San Diego</awayTeam>
+      <startTime>2:39 PM</startTime>
+      <startDate>5/8/2015</startDate>
+    </game>
+    <game gameNumber="game4">
+      <homeTeam>Pittsburg</homeTeam>
+      <awayTeam>Cincinnati</awayTeam>
+      <startTime>2:39 PM</startTime>
+      <startDate>5/8/2015</startDate>
+    </game>
+    <game gameNumber="game5">
+      <homeTeam>Toronto</homeTeam>
+      <awayTeam>NY Yankees</awayTeam>
+      <startTime>2:39 PM</startTime>
+      <startDate>5/8/2015</startDate>
+    </game>
+    <game gameNumber="game6">
+      <homeTeam>Boston</homeTeam>
+      <awayTeam>Tampa Bay</awayTeam>
+      <startTime>2:39 PM</startTime>
+      <startDate>5/8/2015</startDate>
+    </game>
+    <game gameNumber="game7">
+      <homeTeam>Atlanta</homeTeam>
+      <awayTeam>Philadelphia</awayTeam>
+      <startTime>2:39 PM</startTime>
+      <startDate>5/8/2015</startDate>
+    </game>
+    <game gameNumber="game8">
+      <homeTeam>NY Mets</homeTeam>
+      <awayTeam>Baltimore</awayTeam>
+      <startTime>2:39 PM</startTime>
+      <startDate>5/8/2015</startDate>
+    </game>
+    <game gameNumber="game9">
+      <homeTeam>Chicago White Sox</homeTeam>
+      <awayTeam>Detroit</awayTeam>
+      <startTime>2:39 PM</startTime>
+      <startDate>5/8/2015</startDate>
+    </game>
+    <game gameNumber="game10">
+      <homeTeam>Kansas City</homeTeam>
+      <awayTeam>Cleveland</awayTeam>
+      <startTime>2:39 PM</startTime>
+      <startDate>5/8/2015</startDate>
+    </game>
+    <game gameNumber="game11">
+      <homeTeam>Milwaukee</homeTeam>
+      <awayTeam>LA Dodgers</awayTeam>
+      <startTime>2:39 PM</startTime>
+      <startDate>5/8/2015</startDate>
+    </game>
+    <game gameNumber="game12">
+      <homeTeam>Minnesota</homeTeam>
+      <awayTeam>Oakland</awayTeam>
+      <startTime>2:39 PM</startTime>
+      <startDate>5/8/2015</startDate>
+    </game>
+    <game gameNumber="game13">
+      <homeTeam>Houston</homeTeam>
+      <awayTeam>Texas</awayTeam>
+      <startTime>2:39 PM</startTime>
+      <startDate>5/8/2015</startDate>
+    </game>
+    <game gameNumber="game14">
+      <homeTeam>St. Louis</homeTeam>
+      <awayTeam>Chicago Cubs</awayTeam>
+      <startTime>2:39 PM</startTime>
+      <startDate>5/8/2015</startDate>
+    </game>
+    <game gameNumber="game15">
+      <homeTeam>LA Angels</homeTeam>
+      <awayTeam>Seattle</awayTeam>
+      <startTime>2:39 PM</startTime>
+      <startDate>5/8/2015</startDate>
+    </game>
+  </day>
+</schedule>

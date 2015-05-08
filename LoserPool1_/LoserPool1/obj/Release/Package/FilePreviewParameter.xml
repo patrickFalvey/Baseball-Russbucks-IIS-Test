@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Russbucks-LoserPool-Football" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Larry\\Documents\\GitHub\\RussBucks-IIS-FTPTest\\LoserPool1_\\LoserPool1\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Larry\\Documents\\GitHub\\RussBucks-IIS-FTPTest\\LoserPool1_\\LoserPool1\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="LosersPool2-Test-Web.config Connection String" description="" value="Data Source=LARRYPC3\SQLEXPRESS;Initial Catalog=LosersPool2-Test;Integrated Security=True" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Larry\\Documents\\GitHub\\RussBucks-IIS-FTPTest\\LoserPool1_\\LoserPool1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='LosersPool2-Test']/@connectionString" />
+  </parameter>
+  <parameter name="PlayoffPool2-Test-Web.config Connection String" description="" value="Data Source=LARRYPC3\SQLEXPRESS;Initial Catalog=PlayoffPool2-Test;Integrated Security=True" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Larry\\Documents\\GitHub\\RussBucks-IIS-FTPTest\\LoserPool1_\\LoserPool1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='PlayoffPool2-Test']/@connectionString" />
+  </parameter>
+  <parameter name="Pools2-Test-Web.config Connection String" description="" value="Data Source=LARRYPC3\SQLEXPRESS;Initial Catalog=Pools2-Test;Integrated Security=True" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Larry\\Documents\\GitHub\\RussBucks-IIS-FTPTest\\LoserPool1_\\LoserPool1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Pools2-Test']/@connectionString" />
+  </parameter>
+  <parameter name="RussbucksMembership-Test-Web.config Connection String" description="" value="Data Source=LARRYPC3\SQLEXPRESS;Initial Catalog=RussbucksMembership-Test;Integrated Security=True" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Larry\\Documents\\GitHub\\RussBucks-IIS-FTPTest\\LoserPool1_\\LoserPool1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='RussbucksMembership-Test']/@connectionString" />
+  </parameter>
+</parameters>

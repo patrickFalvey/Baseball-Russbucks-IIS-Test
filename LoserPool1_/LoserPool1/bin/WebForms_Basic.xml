@@ -1,0 +1,1700 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LoserPool1
+</name>
+</assembly>
+<members>
+<member name="F:LoserPool1.OpenAuthProviders.providerDetails">
+	<summary>
+providerDetails control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyLoserPoolUserEntry.loser1">
+	<summary>
+loser1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyLoserPoolUserEntry.RadioButtonList1">
+	<summary>
+RadioButtonList1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyLoserPoolUserEntry.LinqDataSource1">
+	<summary>
+LinqDataSource1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyLoserPoolUserEntry.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyLoserPoolUserEntry.Button2">
+	<summary>
+Button2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.TwoFactorAuthenticationSignIn.sendcode">
+	<summary>
+sendcode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.TwoFactorAuthenticationSignIn.Providers">
+	<summary>
+Providers control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.TwoFactorAuthenticationSignIn.ProviderSubmit">
+	<summary>
+ProviderSubmit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.TwoFactorAuthenticationSignIn.verifycode">
+	<summary>
+verifycode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.TwoFactorAuthenticationSignIn.SelectedProvider">
+	<summary>
+SelectedProvider control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.TwoFactorAuthenticationSignIn.ErrorMessage">
+	<summary>
+ErrorMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.TwoFactorAuthenticationSignIn.FailureText">
+	<summary>
+FailureText control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.TwoFactorAuthenticationSignIn.Code">
+	<summary>
+Code control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.TwoFactorAuthenticationSignIn.RememberBrowser">
+	<summary>
+RememberBrowser control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.TwoFactorAuthenticationSignIn.CodeSubmit">
+	<summary>
+CodeSubmit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.MyPools.myLoserPool">
+	<summary>
+myLoserPool control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.MyPools.myPlayoffPool">
+	<summary>
+myPlayoffPool control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1._Default2.enterUserData">
+	<summary>
+enterUserData control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1._Default2.scoringUpdate">
+	<summary>
+scoringUpdate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.ManageLogins.SuccessMessagePlaceholder">
+	<summary>
+SuccessMessagePlaceholder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.ResetPassword.ErrorMessage">
+	<summary>
+ErrorMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.ResetPassword.Email">
+	<summary>
+Email control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.ResetPassword.Password">
+	<summary>
+Password control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.ResetPassword.ConfirmPassword">
+	<summary>
+ConfirmPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:LoserPool1.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:LoserPool1.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:LoserPool1.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:LoserPool1.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:LoserPool1.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="T:LoserPool1.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LoserPool1.Confirm.successPanel">
+	<summary>
+successPanel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.Confirm.login">
+	<summary>
+login control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.Confirm.errorPanel">
+	<summary>
+errorPanel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.ContenderConfirmation.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.DisplayPoolResults.ContendersTable">
+	<summary>
+ContendersTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.DisplayPoolResults.LosersTable">
+	<summary>
+LosersTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.DisplayPoolResults.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.ResetPasswordConfirmation.login">
+	<summary>
+login control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.UpdateNotReady.ReturnToLoserPool1">
+	<summary>
+ReturnToLoserPool1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.JoinPool.PoolNameTextBox">
+	<summary>
+PoolNameTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.JoinPool.PoolNameBtn">
+	<summary>
+PoolNameBtn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.JoinPool.JoinError">
+	<summary>
+JoinError control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.RegisterExternalLogin.email">
+	<summary>
+email control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.Manage.SuccessMessagePlaceHolder">
+	<summary>
+ SuccessMessagePlaceHolder control.
+ </summary>
+	<remarks>
+ Auto-generated field.
+ To modify move field declaration from designer file to code-behind file.
+ </remarks>
+</member><member name="F:LoserPool1.Manage.ChangePassword">
+	<summary>
+ ChangePassword control.
+ </summary>
+	<remarks>
+ Auto-generated field.
+ To modify move field declaration from designer file to code-behind file.
+ </remarks>
+</member><member name="F:LoserPool1.Manage.CreatePassword">
+	<summary>
+ CreatePassword control.
+ </summary>
+	<remarks>
+ Auto-generated field.
+ To modify move field declaration from designer file to code-behind file.
+ </remarks>
+</member><member name="F:LoserPool1.Manage.PhoneNumber">
+	<summary>
+ PhoneNumber control.
+ </summary>
+	<remarks>
+ Auto-generated field.
+ To modify move field declaration from designer file to code-behind file.
+ </remarks>
+</member><member name="F:LoserPool1.Register.ErrorMessage">
+	<summary>
+ErrorMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.Register.Email">
+	<summary>
+Email control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.Register.Password">
+	<summary>
+Password control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.Register.ConfirmPassword">
+	<summary>
+ConfirmPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.VerifyPhoneNumber.ErrorMessage">
+	<summary>
+ErrorMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.VerifyPhoneNumber.PhoneNumber">
+	<summary>
+PhoneNumber control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.VerifyPhoneNumber.Code">
+	<summary>
+Code control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.JoinLoserPool.UserNameTextBox">
+	<summary>
+UserNameTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.JoinLoserPool.JoinLoserPoolBtn">
+	<summary>
+JoinLoserPoolBtn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.JoinLoserPool.JoinError">
+	<summary>
+JoinError control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.Login.ErrorMessage">
+	<summary>
+ErrorMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.Login.FailureText">
+	<summary>
+FailureText control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.Login.Email">
+	<summary>
+Email control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.Login.Password">
+	<summary>
+Password control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.Login.RememberMe">
+	<summary>
+RememberMe control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.Login.RegisterHyperLink">
+	<summary>
+RegisterHyperLink control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.Login.OpenAuthLogin">
+	<summary>
+OpenAuthLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.ManagePassword.setPassword">
+	<summary>
+setPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.ManagePassword.password">
+	<summary>
+password control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.ManagePassword.confirmPassword">
+	<summary>
+confirmPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.ManagePassword.changePasswordHolder">
+	<summary>
+changePasswordHolder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.ManagePassword.CurrentPasswordLabel">
+	<summary>
+CurrentPasswordLabel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.ManagePassword.CurrentPassword">
+	<summary>
+CurrentPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.ManagePassword.NewPasswordLabel">
+	<summary>
+NewPasswordLabel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.ManagePassword.NewPassword">
+	<summary>
+NewPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.ManagePassword.ConfirmNewPasswordLabel">
+	<summary>
+ConfirmNewPasswordLabel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.ManagePassword.ConfirmNewPassword">
+	<summary>
+ConfirmNewPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.JoinPlayoffPool.UserNameTextBox">
+	<summary>
+UserNameTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.JoinPlayoffPool.JoinPlayoffPoolBtn">
+	<summary>
+JoinPlayoffPoolBtn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.JoinPlayoffPool.JoinError">
+	<summary>
+JoinError control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.AddPhoneNumber.ErrorMessage">
+	<summary>
+ErrorMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.AddPhoneNumber.PhoneNumber">
+	<summary>
+PhoneNumber control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.TeamsByGameTable1">
+	<summary>
+TeamsByGameTable1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.Nothing1">
+	<summary>
+Nothing1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.GameNumber1">
+	<summary>
+GameNumber1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.GameNumber2">
+	<summary>
+GameNumber2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.GameNumber3">
+	<summary>
+GameNumber3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.GameNumber4">
+	<summary>
+GameNumber4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.Status1">
+	<summary>
+Status1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.GameNumber1Status">
+	<summary>
+GameNumber1Status control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.GameNumber2Status">
+	<summary>
+GameNumber2Status control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.GameNumber3Status">
+	<summary>
+GameNumber3Status control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.GameNumber4Status">
+	<summary>
+GameNumber4Status control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.Nothing1A">
+	<summary>
+Nothing1A control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.HomeTeam1">
+	<summary>
+HomeTeam1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.AwayTeam1">
+	<summary>
+AwayTeam1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.HomeTeam2">
+	<summary>
+HomeTeam2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.AwayTeam2">
+	<summary>
+AwayTeam2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.HomeTeam3">
+	<summary>
+HomeTeam3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.AwayTeam3">
+	<summary>
+AwayTeam3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.HomeTeam4">
+	<summary>
+HomeTeam4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.AwayTeam4">
+	<summary>
+AwayTeam4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.Nothing1B">
+	<summary>
+Nothing1B control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.HomeScore1">
+	<summary>
+HomeScore1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.AwayScore1">
+	<summary>
+AwayScore1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.HomeScore2">
+	<summary>
+HomeScore2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.AwayScore2">
+	<summary>
+AwayScore2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.HomeScore3">
+	<summary>
+HomeScore3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.AwayScore3">
+	<summary>
+AwayScore3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.HomeScore4">
+	<summary>
+HomeScore4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.AwayScore4">
+	<summary>
+AwayScore4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.TeamsByGameTable2">
+	<summary>
+TeamsByGameTable2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.Nothing5">
+	<summary>
+Nothing5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.GameNumber5">
+	<summary>
+GameNumber5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.GameNumber6">
+	<summary>
+GameNumber6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.GameNumber7">
+	<summary>
+GameNumber7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.GameNumber8">
+	<summary>
+GameNumber8 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.Status2">
+	<summary>
+Status2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.GameNumber5Status">
+	<summary>
+GameNumber5Status control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.GameNumber6Status">
+	<summary>
+GameNumber6Status control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.GameNumber7Status">
+	<summary>
+GameNumber7Status control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.GameNumber8Status">
+	<summary>
+GameNumber8Status control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.Nothing5A">
+	<summary>
+Nothing5A control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.HomeTeam5">
+	<summary>
+HomeTeam5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.AwayTeam5">
+	<summary>
+AwayTeam5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.HomeTeam6">
+	<summary>
+HomeTeam6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.AwayTeam6">
+	<summary>
+AwayTeam6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.HomeTeam7">
+	<summary>
+HomeTeam7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.AwayTeam7">
+	<summary>
+AwayTeam7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.HomeTeam8">
+	<summary>
+HomeTeam8 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.AwayTeam8">
+	<summary>
+AwayTeam8 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.Nothing5B">
+	<summary>
+Nothing5B control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.HomeScore5">
+	<summary>
+HomeScore5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.AwayScore5">
+	<summary>
+AwayScore5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.HomeScore6">
+	<summary>
+HomeScore6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.AwayScore6">
+	<summary>
+AwayScore6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.HomeScore7">
+	<summary>
+HomeScore7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.AwayScore7">
+	<summary>
+AwayScore7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.HomeScore8">
+	<summary>
+HomeScore8 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.AwayScore8">
+	<summary>
+AwayScore8 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.TeamsByGameTable3">
+	<summary>
+TeamsByGameTable3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.Nothing9">
+	<summary>
+Nothing9 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.GameNumber9">
+	<summary>
+GameNumber9 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.GameNumber10">
+	<summary>
+GameNumber10 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.GameNumber11">
+	<summary>
+GameNumber11 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.GameNumber12">
+	<summary>
+GameNumber12 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.Status3">
+	<summary>
+Status3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.GameNumber9Status">
+	<summary>
+GameNumber9Status control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.GameNumber10Status">
+	<summary>
+GameNumber10Status control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.GameNumber11Status">
+	<summary>
+GameNumber11Status control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.GameNumber12Status">
+	<summary>
+GameNumber12Status control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.Nothing9A">
+	<summary>
+Nothing9A control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.HomeTeam9">
+	<summary>
+HomeTeam9 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.AwayTeam9">
+	<summary>
+AwayTeam9 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.HomeTeam10">
+	<summary>
+HomeTeam10 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.AwayTeam10">
+	<summary>
+AwayTeam10 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.HomeTeam11">
+	<summary>
+HomeTeam11 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.AwayTeam11">
+	<summary>
+AwayTeam11 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.HomeTeam12">
+	<summary>
+HomeTeam12 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.AwayTeam12">
+	<summary>
+AwayTeam12 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.Nothing9B">
+	<summary>
+Nothing9B control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.HomeScore9">
+	<summary>
+HomeScore9 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.AwayScore9">
+	<summary>
+AwayScore9 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.HomeScore10">
+	<summary>
+HomeScore10 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.AwayScore10">
+	<summary>
+AwayScore10 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.HomeScore11">
+	<summary>
+HomeScore11 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.AwayScore11">
+	<summary>
+AwayScore11 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.HomeScore12">
+	<summary>
+HomeScore12 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.AwayScore12">
+	<summary>
+AwayScore12 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.TeamsByGameTable4">
+	<summary>
+TeamsByGameTable4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.Nothing13">
+	<summary>
+Nothing13 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.GameNumber13">
+	<summary>
+GameNumber13 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.GameNumber14">
+	<summary>
+GameNumber14 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.GameNumber15">
+	<summary>
+GameNumber15 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.GameNumber16">
+	<summary>
+GameNumber16 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.Status4">
+	<summary>
+Status4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.GameNumber13Status">
+	<summary>
+GameNumber13Status control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.GameNumber14Status">
+	<summary>
+GameNumber14Status control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.GameNumber15Status">
+	<summary>
+GameNumber15Status control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.GameNumber16Status">
+	<summary>
+GameNumber16Status control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.Nothing13A">
+	<summary>
+Nothing13A control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.HomeTeam13">
+	<summary>
+HomeTeam13 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.AwayTeam13">
+	<summary>
+AwayTeam13 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.HomeTeam14">
+	<summary>
+HomeTeam14 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.AwayTeam14">
+	<summary>
+AwayTeam14 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.HomeTeam15">
+	<summary>
+HomeTeam15 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.AwayTeam15">
+	<summary>
+AwayTeam15 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.HomeTeam16">
+	<summary>
+HomeTeam16 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.AwayTeam16">
+	<summary>
+AwayTeam16 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.Nothing13B">
+	<summary>
+Nothing13B control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.HomeScore13">
+	<summary>
+HomeScore13 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.AwayScore13">
+	<summary>
+AwayScore13 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.HomeScore14">
+	<summary>
+HomeScore14 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.AwayScore14">
+	<summary>
+AwayScore14 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.HomeScore15">
+	<summary>
+HomeScore15 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.AwayScore15">
+	<summary>
+AwayScore15 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.HomeScore16">
+	<summary>
+HomeScore16 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.AwayScore16">
+	<summary>
+AwayScore16 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.WeeklyScoringUpdate.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.Site_Mobile.Head1">
+	<summary>
+Head1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.Site_Mobile.HeadContent">
+	<summary>
+HeadContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.Site_Mobile.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.Site_Mobile.FeaturedContent">
+	<summary>
+FeaturedContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.Site_Mobile.MainContent">
+	<summary>
+MainContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.Site_Mobile.ViewSwitcher1">
+	<summary>
+ViewSwitcher1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.SiteMaster.MainContent">
+	<summary>
+MainContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1._Default1.PoolNameTextBox">
+	<summary>
+PoolNameTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.TestDriver.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.ForgotPassword.loginForm">
+	<summary>
+loginForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.ForgotPassword.ErrorMessage">
+	<summary>
+ErrorMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.ForgotPassword.FailureText">
+	<summary>
+FailureText control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.ForgotPassword.Email">
+	<summary>
+Email control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.ForgotPassword.DisplayEmail">
+	<summary>
+DisplayEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.Season_End.ContendersTable">
+	<summary>
+ContendersTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.Season_End.LosersTable">
+	<summary>
+LosersTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LoserPool1.Season_End.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>
